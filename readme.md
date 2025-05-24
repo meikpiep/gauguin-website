@@ -1,3 +1,34 @@
+# Website of Gauguin
+
+## Brain storming
+
+Possible content for homepage:
+
+* Wo kann man Gauguin herunterladen?
+* Badges? (Build, Version etc.)
+* Screenshot(s)
+* Was ist Gauguin?
+	* Kenken
+	* Regeln
+	* nur für Android
+* Wie spielt man es?
+* Hintergrund Gauguin
+	* Maler
+	* Farben
+	* Bild
+* Support
+* Contact
+* Issue Tracker
+* Weblate? Tanslations
+* Links
+	* Changelog
+	* GitHub-Banner oben rechts
+
+### Ideen
+
+* https://www.fossify.org/ -> Coole Links als Icons auf GitHub, Google Play etc.
+
+
 # Eleventy Excellent
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
