@@ -5,6 +5,10 @@ export default {
       url: '/about/'
     },
     {
+      text: 'Rules',
+      url: '/rules/'
+    },
+    {
       text: 'Docs',
       url: '/get-started/'
     },
