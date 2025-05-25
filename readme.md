@@ -17,7 +17,7 @@ Possible content for homepage:
 * Support
 * Contact
 * Issue Tracker
-* Weblate? Tanslations
+* Weblate? Translations
 * Links
 	* Changelog
 	* GitHub-Banner oben rechts

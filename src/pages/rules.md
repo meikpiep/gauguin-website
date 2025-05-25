@@ -9,9 +9,9 @@ You solve a grid by putting a value for each cell. Each grid has **exactly one s
 
 Here are the rules:
 
-- Each value has to be put into each column exactly once. 
-- Each value has to be put into each row exactly once.
-- Each cage has to satisfy its result by applying the given operation.
+- Each column contains each possible value exactly once. 
+- Each row contains each possible value exactly once.
+- Each cage satisfies its mathematical task with the given result.
 
 <img src="/assets/images/rules/rules-4x4.png" alt="alt text" eleventy:widths="200,300" 
 loading="eager" decoding="sync">
