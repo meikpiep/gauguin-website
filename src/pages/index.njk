@@ -22,6 +22,7 @@ blog:
 
   <article class="full | region">
     <div class="wrapper flow prose">
+
       <h2 id="an-eleventy-starter">A Sudoku-like Android game</h2>
       <p>
         Solve mathematical puzzles - small or big, easy or hard, fast or slow, fun or achievement.
@@ -29,7 +30,20 @@ blog:
       <p>
         <strong>Fully Open Source.</strong> Driven with faith in one's spare time.
       </p>
-      <p>
+
+  <custom-masonry layout="50-50">
+    <div style="background-color: var(--color-primary);">
+        <img src="/assets/images/main-screen.png" alt="alt text" eleventy:widths="200,400"
+            loading="eager" decoding="sync">
+    </div>
+    <div>
+        <ul>
+            <li>Grid size from 3x3 to 11x11</li>
+            <li>5 Difficulty settings</li>
+            <li>Light mode, dark mode, dynamic colors</li>
+        </ul>
+</div>
+  </custom-masonry>
 
       <a href="https://f-droid.org/packages/org.piepmeyer.gauguin/">
         <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
@@ -37,7 +51,6 @@ blog:
           eleventy:widths="200,400">
       </a>
 
-      </p>
       <a href="https://play.google.com/store/apps/details?id=org.piepmeyer.gauguin">
         <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
           alt="Get it on Google Play"
