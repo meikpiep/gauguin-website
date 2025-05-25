@@ -18,29 +18,14 @@ loading="eager" decoding="sync">
 
 ## Examples
 
-- A cage with 3 cells in a row and **6+** may have 1, 2, 3 in its cells, in any order:
-  - 1, 2, 3 
-  - 1, 3, 2
-  - 2, 1, 3
-  - 2, 3, 1
-  - 3, 1, 2
-  - 3, 2, 1
-- A cage with 2 cells and **6*** may have two values whose product is 6:
-  - 1, 6
-  - 2, 3
-  - 3, 2
-  - 6, 1
-- A cage with 2 cells and **6÷** may have:
-  - 1, 6
-  - 6, 1
+- A cage with 3 cells in a row and **6+** may have 1, 2, 3 in its cells, in any order (1, 2, 3 
+  or 1, 3, 2 or 2, 1, 3 or 2, 3, 1 or 3, 1, 2 or 3, 2, 1).
+- A cage with 2 cells and **6*** may have two values whose product is 6: 1, 6 or 2, 3 or 3, 2 or 
+  6, 1.
+- A cage with 2 cells and **6÷** may have 1, 6 or 6, 1.
   This means: The order of the values is not relevant.
-- A cage with 2 cells and **1-** may have any two values whose difference is 1:
-  - 1, 2
-  - 2, 1
-  - 2, 3
-  - 3, 1
-  - 3, 5
-  - ...
+- A cage with 2 cells and **1-** may have any two values whose difference is 1, that is 1, 2 or 
+  2, 1.
 
 This cage types **÷** and **-** always come with exactly 2 cells as these operations is defined 
 for two operants only.
