@@ -11,7 +11,7 @@ The main screen consists of:
 
 * The grid in the upper part.
   * Tap a cell to select it.
-  * Long-tap to enter the possible numer as the value of the current cell. Only works if exaclty 
+  * Long-tap to enter the possible number as the value of the current cell. Only works if exactly 
     one number is contained in the list of possibles.
 * The key pad.
   * Short-tap a number to create or remove this number as a possible (these are small numbers 

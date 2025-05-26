@@ -1,23 +1,16 @@
 ---
 title: About
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'Gauguin is a Sudoku-like puzzle game for Android.".'
 layout: page
 ---
 
-This starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template.
+## History
 
-It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk **'Be the browser’s mentor, not its micromanager'**.
+The puzzle app for Android had its [first release in October 2023 (version 0.9.0)]
+(https://github.com/meikpiep/gauguin/releases/tag/v0.9.0).
 
-If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
+It started as a fork of [HoloKenMod](https://github.com/queler/holokenmod), now featuring a 
+complete revamped UI based on Google Material.
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
-
-- buildexcellentwebsit.es
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-- Study the [original CSS boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate/tree/main)
-
-## Watch the talk
-
-<div><custom-youtube @slug="JqnMI1AXl6w" @label="Andy Bell – Be the browser’s mentor, not its micromanager"> </custom-youtube></div>
-
+See [changelog on GitHub](https://github.com/meikpiep/gauguin/releases) for full history.
