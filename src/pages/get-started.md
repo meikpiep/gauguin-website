@@ -1,26 +1,24 @@
 ---
-title: Get started
+title: How to play
 permalink: /get-started/index.html
 description: 'You can use this starter as a template for your blog and you are ready to go! But there are some adjustments you have to make.'
 layout: page
 ---
 
-You can use this starter as a template for your blog and you are ready to go! But there are some **adjustments you have to make**.
+Unsure what this game is about? [Have a look at the rules.](/rules)
 
-- `src/_data/meta.js` - sets different "hard coded" text values all over the template, you can change the language, etc.
-- edit your personal details and social media in `src/_data/personal.yaml`.
-- Open `src/assets/css/global/blocks/external-link.css`. Replace "eleventy-excellent.netlify.app" with your own domain. This is about the external link indicators, they are matched with your domain. If you don't want to use external link indicators, feel free to delete the whole style rule. You can also add the class `no-indicator` to any anchor element you want to except from this rule.
+The main screen consists of:
 
-If you are working with **VS Code** I recommend installing the "Tailwind CSS IntelliSense" addon, as it works also for our custom utility classes. That said, you will find that Tailwind CSS does not work as you might expect. I explain this in [one of the blog posts](/blog/what-is-tailwind-css-doing-here/).
-
-The [blog posts](/blog/) also explain / show some features that aren't covered here.
-
-## "Docs" lol
-
-<!-- loop docs -->
-{% set itemList = collections.docs %}
-{% include 'partials/details.njk' %}
-
-{% css "local" %}
-  {% include "css/custom-card.css" %}
-{% endcss %}
+* The grid in the upper part.
+  * Tap a cell to select it.
+  * Long-tap to enter the possible numer as the value of the current cell. Only works if exaclty 
+    one number is contained in the list of possibles.
+* The key pad.
+  * Short-tap a number to create or remove this number as a possible (these are small numbers 
+    which *may* be a valid value of a cell).
+  * Long-tap a number to chose it a the value of the current cell.
+* The app bar at the bottom:
+  * Use the hint button labeled **?** to see if there are any errors regarding the values already 
+    put into the grid.
+  * Use the undo button to undo as much steps as you want.
+  * Use the clear button to clear all possibles from the current cell.
