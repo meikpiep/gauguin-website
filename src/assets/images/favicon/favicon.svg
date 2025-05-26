@@ -1,15 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 24 24"
-  width="1em"
-  height="1em"
-  fill="#DD4462"
-  aria-hidden="true"
-  focusable="false"
->
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 1.125 1.125"
+   version="1.1"
+   id="svg2237"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1912"
+     inkscape:window-height="915"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="29.384552"
+     inkscape:cx="14.528188"
+     inkscape:cy="12.221991"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2237" />
+  <style
+     id="style2189"><![CDATA[
+#keylines circle, #keylines rect { 
+   vector-effect: non-scaling-stroke;
+   fill: none;
+   stroke: #0000FF;
+}
+#mask path, #mask rect, #mask circle, #hatching path { 
+   vector-effect: non-scaling-stroke;
+   fill: none;
+   stroke: #FF0000;
+}
+#keylines, #mask {
+   opacity: 0.5;
+}
+]]></style>
+  <defs
+     id="defs2197">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipHatching">
+      <rect
+         width="8"
+         height="8"
+         x="0"
+         y="0"
+         id="rect2191" />
+    </clipPath>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       id="hatching">
+      <path
+         d="M 1,-1 -1,1 M 9,7 7,9 M 9,-1 -1,9"
+         clip-path="url(#clipHatching)"
+         id="path2194" />
+    </pattern>
+  </defs>
+  <g
+     id="layer2"
+     style="display:inline" />
+  <rect
+     style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#e4c547;stroke-width:0.0389841;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="rect4690"
+     width="1.0827312"
+     height="1.0828509"
+     x="0.021134377"
+     y="0.021074533"
+     ry="0.17614415"
+     rx="0.17612471" />
   <path
-    fill-rule="evenodd"
-    d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.007 5.404.433c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.433 2.082-5.006z"
-    clip-rule="evenodd"
-  />
+     style="display:inline;fill:#afd439;fill-opacity:1;stroke:none;stroke-width:0.00544788"
+     d="m 0.65316279,0.14117604 c -0.0239372,0.0124736 -0.0434614,0.0432626 -0.0663741,0.059674 -0.0976376,0.0699334 -0.18633022,0.15680927 -0.21237469,0.27785828 -0.0136742,0.0635268 -0.001753,0.13779633 0.0549009,0.17768295 0.0387541,0.0272788 0.091209,0.030935 0.13568339,0.0164914 0.0228634,-0.00742 0.0625007,-0.0385077 0.0856422,-0.0217546 0.0200962,0.0145412 0.0180697,0.0455092 0.0178409,0.0673019 -7.3344e-4,0.0688817 -0.0488492,0.12776069 -0.0488492,0.19613556 6.88e-6,0.0261845 0.0191435,0.0903912 0.0582519,0.069552 0.0285506,-0.0152057 0.0265461,-0.0800123 0.0364549,-0.1076894 0.0384499,-0.10739528 0.0604472,-0.19499138 0.0192631,-0.30509966 -0.009757,-0.0260811 -0.0208099,-0.0669916 -0.0450134,-0.0835651 -0.02708,-0.0185391 -0.041495,0.0345633 -0.0525861,0.0499494 -0.0280878,0.0389493 -0.0962808,0.0978606 -0.14724304,0.0670781 -0.12726195,-0.0768629 0.0233697,-0.25489207 0.0980293,-0.30228322 0.0285132,-0.0181005 0.0657859,-0.0278846 0.088251,-0.0544146 0.0187724,-0.0221733 0.031466,-0.13471443 -0.021877,-0.10691709"
+     id="path4693" />
 </svg>
