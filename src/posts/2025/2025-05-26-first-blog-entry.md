@@ -1,6 +1,6 @@
 ---
 title: 'A homepage for Gauguin!'
-description: "Time for homepage to gain some reach and to build a home."
+description: "Time for a homepage to gain some reach and to build a home."
 date: 2025-05-26
 ---
 
