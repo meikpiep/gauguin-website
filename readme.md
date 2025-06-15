@@ -39,6 +39,7 @@ If you end up using this starter, feel free to send me a link, I'd love to see i
 		- [Working locally](#working-locally)
 		- [Creating a production build](#creating-a-production-build)
 	- [Built with Eleventy Excellent](#built-with-eleventy-excellent)
+	- [Credits and Thank yous](#credits-and-thank-yous)
 
 ## Preview
 
