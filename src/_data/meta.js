@@ -61,14 +61,17 @@ export const details = {
   collapse: 'collapse all'
 };
 export const dialog = {
-  close: 'Close'
+  close: 'Close',
+  next: 'Next',
+  previous: 'Previous'
 };
 export const navigation = {
   navLabel: 'Menu',
   ariaTop: 'Main',
   ariaBottom: 'Complementary',
   ariaPlatforms: 'Platforms',
-  drawerNav: false
+  drawerNav: false,
+  subMenu: false
 };
 export const themeSwitch = {
   title: 'Theme',
